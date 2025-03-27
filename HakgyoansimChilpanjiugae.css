@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Hakgyoansim Chilpanjiugae';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimChilpanjiugae/HakgyoansimChilpanjiugae-L.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimChilpanjiugae/HakgyoansimChilpanjiugae-L.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimChilpanjiugae/HakgyoansimChilpanjiugae-L.otf') format('opentype'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimChilpanjiugae/HakgyoansimChilpanjiugae-L.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Hakgyoansim Chilpanjiugae';
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimChilpanjiugae/HakgyoansimChilpanjiugae-B.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimChilpanjiugae/HakgyoansimChilpanjiugae-B.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimChilpanjiugae/HakgyoansimChilpanjiugae-B.otf') format('opentype'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/HakgyoansimChilpanjiugae/HakgyoansimChilpanjiugae-B.ttf') format('truetype');
+}
